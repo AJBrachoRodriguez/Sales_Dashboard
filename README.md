@@ -1,14 +1,16 @@
 
-![LogoGLM](img/Logo.jpeg)
+![LogoGLM](img/dashboard.png)
+<hr>
 
-Interactive dashboard of an e-commerce deployed on Streamlit.
+SalesPro is an interactive dashboard of an e-commerce deployed on Streamlit. The data source was taken from a GitHub repository, however, the processing of the data was done using python, pandas and PostgreSQL with 
+an ETL alongsinde the project.
 
-<h3 align="center">🛠️ Miembros del Equipo</h3>
+<h3 align="center">🛠️ Members of the team</h3>
 <br>
 <div align="center"> 
  
 
-|Participantes|Roles|Redes|
+|Members|Roles|Network|
 |:---:|:---:|:---:|
 |**Mirna**|![](https://img.shields.io/badge/DATA%20SCIENTIST-blue?style=for-the-badge)| <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/marcelo-peralta2/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-peralta2/) </a> |
 |**Edwin Garcia**|![](https://img.shields.io/badge/DATA%20SCIENTIST-blue?style=for-the-badge) | <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/edd-garcia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
@@ -21,9 +23,6 @@ Interactive dashboard of an e-commerce deployed on Streamlit.
 
 </div>
 <br>
-
-
-
 
 <h2>🚧 Technology stack </h2>
 
