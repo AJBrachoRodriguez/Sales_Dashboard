@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import psycopg2 as post
 import mapgraphs as mapgraph
 import linegraphs as linesgraph
 import bargraphs as bargraph
